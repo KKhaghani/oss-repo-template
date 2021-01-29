@@ -1,5 +1,5 @@
 # Open Source Software - Summer 2019
-## test1
+## Kevin Khaghani
 
 ## Bio
 (( Put a little bit about yourself here! Also include a photo. ))
