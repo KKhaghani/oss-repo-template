@@ -7,6 +7,6 @@
 # Reading Assignments
 #### The Open Source Definition sets an important standard, a high standard. Free redistribution is probably the most obvious part of the definition, but one criterion that surprised me was that the license must not restrict other software (#9). 
 #### Smart Questions's introduction blew me away with how accurately it depicted sites like StackOverflow- people are willing to help and say "Good question," but only if the user has put in the work and doesn't ask a question that has already been answered twice over.
-#### Two more questions for Answering Questions in a Helpful Way:
- * 
- *
+#### Two more suggestions for Answering Questions in a Helpful Way:
+ * If a question can be answered in multiple ways, or there are multiple solutions, point some of them out! Other users tend to add solutions in case the first solution fails.
+ * When a question points out a known issue, don't just say it's a known bug- pass it along to the software maintainer and let them know the bug is still ongoing.
