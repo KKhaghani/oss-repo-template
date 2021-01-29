@@ -1,6 +1,6 @@
 # Lab 01 Report - Introduction to Open Source Software
 
-#### Note that parts of this lab (questions 1 and. . . 1) are filled out in index.md, and then the rest of the work continues here.
+#### Note that Part 1 of this lab was filled out in index.md, and then the rest of the work continues here.
 #### My post to Discord:
 # ![Hello](hello_v2.png)
 
