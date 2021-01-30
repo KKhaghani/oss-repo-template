@@ -24,7 +24,7 @@
 # ![Didn't number these](regexcw.png)
 
 # Snap/Blockly
-#### Blockly Maze beat
+#### Blockly Maze: beaten with 9/10 blocks of code
 # ![Wasn't too bad at all](blockly.png)
 
 # Reflection
