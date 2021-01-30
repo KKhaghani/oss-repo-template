@@ -8,4 +8,4 @@ I'm K_#2970 on Discord.
 # ![It's me!](images/kkhag_small.png)
 
 ## Lab Reports
-[Lab 1](labs/lab-01/report.md)
+[Lab 1](labs/lab-01/lab01.md)
