@@ -23,5 +23,5 @@
 #### Regex Crossword: first four beginner crosswords
 # ![Didn't number these](regexcw.png)
 
-# Snap/Blocky
+# Snap/Blockly
 #### Pending. . .
