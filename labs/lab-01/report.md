@@ -10,3 +10,5 @@
 #### Two more suggestions for Answering Questions in a Helpful Way:
  * If a question can be answered in multiple ways, or there are multiple solutions, point some of them out! Other users tend to add solutions in case the first solution fails.
  * When a question points out a known issue, don't just say it's a known bug- pass it along to the software maintainer and let them know the bug is still ongoing.
+## Free Culture, chapter 3:
+#### What is strangest to me is why this chapter was titled 'Catalogs,' as opposed to 'Thieves,' 'Villains,' or something more accurate. In fact, 'Catalogs' never appears once within the body of chapter 3. 
