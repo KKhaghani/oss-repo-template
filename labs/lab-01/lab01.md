@@ -1,6 +1,6 @@
 # Lab 01 Report - Introduction to Open Source Software
 
-#### Note that Part 1 of this lab was filled out in ![index.md](https://github.com/KKhaghani/oss-repo-template/blob/master/index.md), and then the rest of the work continues here.
+#### My bio (with photo) can be found at ![index.md](https://github.com/KKhaghani/oss-repo-template/blob/master/index.md)
 #### My post to Discord:
 # ![Hello](hello_v2.png)
 
