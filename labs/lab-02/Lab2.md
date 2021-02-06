@@ -17,3 +17,6 @@
 
 # Part 3
 #### The PullReq ![repo: link](https://github.com/KKhaghani/PullReq)
+#### PullReq diff:
+#### ![diff](img/l3_diff.PNG)
+#### Pending
