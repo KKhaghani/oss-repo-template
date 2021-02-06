@@ -20,5 +20,4 @@
 #### PullReq images: Diff, Tag
 #### ![diff](img/l3_diff.PNG)
 #### ![tag](img/l3_tag.PNG)
-### OSSStory
-#### Pending
+### OSSStory ![repo: link](https://github.com/KKhaghani/OSSStory)
