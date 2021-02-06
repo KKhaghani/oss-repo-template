@@ -3,4 +3,9 @@
 # Part 1
 #### Git repo: lab2part1 ![Readme](https://github.com/KKhaghani/lab2part1/blob/master/README.md)
 
-#### next
+#### First.py: master, mars, jupiter:
+#### ![Gitk view](img/l1_jup.PNG)
+#### ![Git log view](img/l1_gitlog.PNG)
+
+# Part 2
+#### Next
