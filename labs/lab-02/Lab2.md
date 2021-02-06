@@ -17,6 +17,8 @@
 
 # Part 3
 #### The PullReq ![repo: link](https://github.com/KKhaghani/PullReq)
-#### PullReq diff:
+#### PullReq images: Diff, Tag
 #### ![diff](img/l3_diff.PNG)
+#### ![tag](img/l3_tag.PNG)
+### OSSStory
 #### Pending
