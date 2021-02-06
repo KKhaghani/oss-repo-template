@@ -9,3 +9,11 @@
 
 # Part 2
 #### The Spoon-Knife ![repo: link](https://github.com/KKhaghani/Spoon-Knife)
+### Learn Git Branching: first 4 levels
+#### ![lv1](img/l2_l1.PNG)
+#### ![lv2](img/l2_l2.PNG)
+#### ![lv3](img/l2_l3.PNG)
+#### ![lv4](img/l2_l4.PNG)
+
+# Part 3
+#### Pending
