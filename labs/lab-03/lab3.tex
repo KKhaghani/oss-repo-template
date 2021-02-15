@@ -1,0 +1,109 @@
+%---------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%---------------------------------------------------------
+
+\documentclass[]{amsart}
+
+% Template-specific packages
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[T1]{fontenc} % Output font encoding for international characters
+\usepackage{mathpazo} % Use the Palatino font
+\usepackage{graphicx} % Required for including images
+\usepackage{booktabs} % Required for better horizontal rules in tables
+\usepackage{listings} % Required for insertion of code
+\usepackage{enumerate} % To modify the enumerate environment
+
+%bonus essentials
+%\usepackage{amsmath} % To display symbols like hookrightarrow. . . Presently unused
+\usepackage{amssymb} % to display \varnothing
+\usepackage{xcolor} % for \textcolor
+\usepackage{soul} % for \hl
+\usepackage{hyperref} % for links
+
+%---------------------------------------------------------
+
+\def\n{\newline \text}
+\newcommand{\bt}[1]{\textbf{#1}}
+\newcommand{\ans}[1]{{\huge \hl{#1}}}
+\newcommand{\anstwo}[1]{{\huge #1}}
+%consider also \usepackage{color} and \sethlcolor
+\newcommand{\vfrac}[2]{\ensuremath{\frac{#1}{#2}}}
+
+\setlength{\textheight}{8.5in}
+\setlength{\textwidth}{6.5in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\voffset0.0in
+
+%---------------------------------------------------------
+\begin{document}
+
+\centerline{\bf \Large Open-Source Software - Lab 3}
+\centerline{Kevin Khaghani}
+\thispagestyle{empty}
+
+%---------------------------------------------------------
+%	ASSIGNMENT CONTENT
+%---------------------------------------------------------
+
+\section*{Part 1, Question 3}
+
+\text Use \href{http://www.artofproblemsolving.com/texer}{latex} to generate the formulae depicted in \href{https://github.com/rcos/CSCI-4961-01-Summer-2018/blob/master/Labs/latex_formulae.png}{this image}.
+
+\medskip
+\begin{enumerate}[a.]
+	\item $\sqrt{1 + 2\sqrt{1 + 3\sqrt{1 + 4\sqrt{1 + . . .}}}}$
+	
+	\medskip\item $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}}}}$
+\end{enumerate}
+
+%\includegraphics[width=0.5\columnwidth]{ex1.png}
+
+%------------------------------------------------
+%\bigskip
+%\begin{enumerate}[a.]
+%	\item answers aren't separate this time
+%\end{enumerate}
+%---------------------------------------------------------
+
+
+\newpage
+\thispagestyle{empty}
+
+
+\section*{Part 1, Question 4}
+
+\text Use latex to display a \href{https://mathworld.wolfram.com/HadamardMatrix.html}{Hadamard Matrix} of size 4 (equation 5). You can use just 1 and -1; although, if you want to make a matrix using the white and black boxes you are welcome to.
+
+\medskip
+\begin{enumerate}[a.]
+	%\item H$_{4}$ =
+	%\begin{equation}
+	%	\begin{bmatrix}
+	%		 1 &  1 &  1 &  1 \\
+	%		-1 &  1 & -1 &  1 \\
+	%		-1 & -1 &  1 &  1 \\
+	%		 1 & -1 & -1 &  1
+	%	\end{bmatrix}
+	%\end{equation}
+
+	\item H$_{4}$ =
+	$
+	\begin{bmatrix}
+		1 &  1 &  1 &  1 \\
+		-1 &  1 & -1 &  1 \\
+		-1 & -1 &  1 &  1 \\
+		1 & -1 & -1 &  1
+	\end{bmatrix}
+	$
+\end{enumerate}
+
+%------------------------------------------------
+%\bigskip
+%\begin{enumerate}[a.]
+%	\item answers aren't separate this time
+%\end{enumerate}
+%---------------------------------------------------------
+
+
+\end{document}
