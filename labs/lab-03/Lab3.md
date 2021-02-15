@@ -7,7 +7,7 @@ Latex:
 
 ![Question 3](img/latex3.PNG)
 
-#[Question 4](img/latex4.PNG)
+![Question 4](img/latex4.PNG)
 
 If you want to see the full .tex file, [click here](lab3.tex).
 
