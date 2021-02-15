@@ -14,28 +14,28 @@ If you want to see the full .tex file, [click here](lab3.tex).
 # Part 2
 Projects I'm looking at:
 
-Exalendar
+[Exalendar](https://github.com/natsr4/exalendar)
 * 6 contributors
 * 58,269 total lines of code
 * First commit: 9/15/2020 - "Initial commit" by NatSR4
 * Latest commit: 2/8/2021 - "Merge remote-tracking branch 'origin/master'" by NatSR4
 * Current branches: 8, 7 active
 
-Poll Buddy
+[Poll Buddy](https://github.com/pollbuddy/pollbuddy)
 * 24 contributors
 * 28,239 total lines of code
 * First commit: 9/17/2019 - "Initial commit" by neha-deshpande001
 * Latest commit: 12/18/2020 - "Merge branch 'backend'" by hbh7
 * Current branches: 10, 9 active
 
-RPI Campus Map
+[RPI Campus Map](https://github.com/gaskij/rpicampusmap)
 * 12 contributors
 * 37,207 total lines of code
 * First commit: 9/28/2018 - "Initial commit" by gaskij
 * Latest commit: 1/26/2021 - "Merge pull request #153 from gaskij/dependabot/. . ." by gaskij
 * Current branches: 12, 7 active
 
-Submitty
+[Submitty](https://github.com/submitty/submitty)
 * 129 contributors (soon to be 130!)
 * **702,097** total lines of code
 * First commit: 1/31/2014 - "init commit" by Jesse Freitas
