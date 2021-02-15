@@ -15,6 +15,8 @@ If you want to see the full .tex file, [click here](lab3.tex).
 Projects I'm looking at:
 
 Exalendar
+* 6 contributors
+* 58,269 total lines of code
 
 Poll Buddy
 * 24 contributors
