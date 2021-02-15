@@ -17,6 +17,9 @@ Projects I'm looking at:
 Exalendar
 * 6 contributors
 * 58,269 total lines of code
+* First commit: 9/15/2020 - "Initial commit" by NatSR4
+* Latest commit: 2/8/2021 - "Merge remote-tracking branch 'origin/master'" by NatSR4
+* Current branches: 
 
 Poll Buddy
 * 24 contributors
