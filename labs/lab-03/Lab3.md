@@ -42,7 +42,7 @@ Submitty
 * Latest commit: 2/15/2021 - "`[DevDependency]` Bump eslint from 7.19.0 to 7.20.0 in /site" by dependabot
 * Current branches: 132, 36 active
 
-Now compare these to the gitstats pages for each:
+Now compare these to the [gitstats](https://github.com/hoxu/gitstats) pages for each:
 
 Exalendar:
 ![Exalendar gitstats](img/gsl1.PNG)
@@ -58,4 +58,8 @@ Submitty:
 
 How they compare:
 
-(pending)
+The biggest discrepancy between all of these, but especially for Exalendar, is the line count: clearly, gitstats disagrees with the `git ls-files -z | xargs -0 wc -l` command. Beyond that, it's very interesting to see the line count fluctuate over time. We can see that Exalendar roughly doubled back in December, and that for about three months of 2018, Submitty *dropped* 50,000 lines of code! Cool!
+
+Gource:
+
+(Pending)
