@@ -12,4 +12,15 @@ Latex:
 If you want to see the full .tex file, [click here](lab3.tex).
 
 # Part 2
-Placeholder
+Projects I'm looking at:
+
+Exalendar
+
+Poll Buddy
+
+* pending
+* 28,239 total lines of code
+
+RPI Campus Map
+
+Submitty
