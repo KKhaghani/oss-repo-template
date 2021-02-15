@@ -17,8 +17,7 @@ Projects I'm looking at:
 Exalendar
 
 Poll Buddy
-
-* pending
+* 24 contributors
 * 28,239 total lines of code
 
 RPI Campus Map
