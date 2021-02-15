@@ -24,10 +24,16 @@ Exalendar
 Poll Buddy
 * 24 contributors
 * 28,239 total lines of code
+* First commit: 9/17/2019 - "Initial commit" by neha-deshpande001
+* Latest commit: 12/18/2020 - "Merge branch 'backend'" by hbh7
+* Current branches: 10, 9 active
 
 RPI Campus Map
 * 12 contributors
 * 37,207 total lines of code
+* First commit: 9/28/2018 - "Initial commit" by gaskij
+* Latest commit: 1/26/2021 - "Merge pull request #153 from gaskij/dependabot/. . ." by gaskij
+* Current branches: 12, 7 active
 
 Submitty
 * 129 contributors (soon to be 130!)
