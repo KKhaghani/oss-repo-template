@@ -41,3 +41,21 @@ Submitty
 * First commit: 1/31/2014 - "init commit" by Jesse Freitas
 * Latest commit: 2/15/2021 - "`[DevDependency]` Bump eslint from 7.19.0 to 7.20.0 in /site" by dependabot
 * Current branches: 132, 36 active
+
+Now compare these to the gitstats pages for each:
+
+Exalendar:
+![Exalendar gitstats](img/gsl1.PNG)
+
+Poll Buddy:
+![Pollbuddy gitstats](img/gsl2.PNG)
+
+RPI Campus Map:
+![rpicampusmap gitstats](img/gsl3.PNG)
+
+Submitty:
+![Submitty gitstats](img/gsl4.PNG)
+
+How they compare:
+
+(pending)
