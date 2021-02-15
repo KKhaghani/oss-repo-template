@@ -23,5 +23,7 @@ Poll Buddy
 * 28,239 total lines of code
 
 RPI Campus Map
+* 12 contributors
+* 37,207 total lines of code
 
 Submitty
