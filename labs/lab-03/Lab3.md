@@ -62,4 +62,18 @@ The biggest discrepancy between all of these, but especially for Exalendar, is t
 
 Gource:
 
-(Pending)
+All gource videos are uploaded as unlisted YouTube videos, click the links below!
+
+Exalendar
+![exalendar gource](img/g1 exal.PNG)
+
+Poll Buddy (sped up 3x in post)
+![pollbuddy gource](img/g2 poll.PNG)
+
+RPI Campus Map
+![rpicampusmap gource](img/g3 rpicm.PNG)
+
+Submitty (parts of video cut to shorten duration)
+![submitty gource](img/g4 subm.PNG)
+
+All of these gource videos are really neat! It lets us view the organizational structure of a project in a whole new way, and we can see how it's varied in time. Part of me wants to use gource more for other repos, but at the same time I encountered issues recording the .ppm videos, and thus this part of the lab took an exorbitant amount of time. Regardless, a very cool tool!
