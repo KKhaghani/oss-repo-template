@@ -64,16 +64,16 @@ Gource:
 
 All gource videos are uploaded as unlisted YouTube videos, click the links below!
 
-Exalendar
+[Exalendar](https://www.youtube.com/watch?v=ROqmWZEv8dw)
 ![exalendar gource](img/g1_exal.PNG)
 
-Poll Buddy (sped up 3x in post)
+[Poll Buddy](https://www.youtube.com/watch?v=5qEpCVRbVKY) (sped up 3x in post)
 ![pollbuddy gource](img/g2_poll.PNG)
 
-RPI Campus Map
+[RPI Campus Map](https://www.youtube.com/watch?v=PHOXmMcMCL4)
 ![rpicampusmap gource](img/g3_rpicm.PNG)
 
-Submitty (parts of video cut to shorten duration)
+[Submitty](https://www.youtube.com/watch?v=oSZymTuyu2k) (parts of video cut to shorten duration)
 ![submitty gource](img/g4_subm.PNG)
 
 All of these gource videos are really neat! It lets us view the organizational structure of a project in a whole new way, and we can see how it's varied in time. Part of me wants to use gource more for other repos, but at the same time I encountered issues recording the .ppm videos, and thus this part of the lab took an exorbitant amount of time. Regardless, a very cool tool!
