@@ -1,6 +1,6 @@
 # Lab 04 Report
 
 # Part 1
-Placeholder
+![Creative Commons license - Attribution](license.txt)
 
 Placeholder 2
