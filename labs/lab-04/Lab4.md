@@ -27,4 +27,5 @@ My table's imaginary project is ![Eyes Up](https://github.com/KKhaghani/EyesUp/b
 
 Website | License Present | License
 ---------|:----------|:-------
-Tempoture | Yes | GPL v3
+![Tempoture](https://github.com/Tempoture/Tempoture-Data-Base) | Yes | GPL v3 https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_3
+![Venue](https://github.com/rcos/venue2) | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
