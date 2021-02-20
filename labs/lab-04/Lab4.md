@@ -1,7 +1,7 @@
 # Lab 04 Report
 
 # Parts 1-5
-Licensed under the ![Creative Commons](LICENSE.txt) license.
+This work is licensed under a ![Creative Commons 4.0 Attribution](LICENSE.txt) license.
 
 Why is it important to choose a license?
 
