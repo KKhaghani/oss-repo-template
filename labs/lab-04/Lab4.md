@@ -21,4 +21,4 @@ Can you justify why Linux chose the GPL v2 license based on the history, goals a
 Linus Torvalds chose the GPL v2 license for Linux for the same reason he developed the Linux kernel- he ![wanted to work on an operating system](https://en.wikipedia.org/wiki/Linux#Creation), but existing operating systems (MINIX, Unix) had either more limited licenses or were proprietary. In fact, the GNU Project was created in direct opposition to the proprietary Unix model. The GNU GPL v2 was the first copyleft license, which meant any derivative works from a GPL v2 project had to stay as free software. Linus's goal was to develop his operating system and then phase out all MINIX components, and the GNU GPL offered his contributors a way to help while preventing a proprietary takeover.
 
 # Part 7
-My table's imaginary project is Eyes Up - read about it HERE!
+My table's imaginary project is ![Eyes Up](https://github.com/KKhaghani/EyesUp/blob/main/README.md) - it uses the ![MIT license](https://github.com/KKhaghani/EyesUp/blob/main/LICENSE).
