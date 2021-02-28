@@ -37,3 +37,9 @@ Using CMake: ![file folder](part2_cmake) | ![the CMakeLists](part2_cmake/CMakeLi
 Relative sizes of static vs shared (dynamic) executables:
 
 ![relative sizes 2](part2_cmake/relativesize2.png)
+
+Finally, the output of running the program:
+
+![output](part2_mymake/static1.PNG)
+
+And yes, for all four programs, the ![output's](part2_mymake/static1.PNG) ![all](part2_mymake/dynamic1.PNG) ![the](part2_cmake/static2.PNG) ![same](part2_cmake/dynamic2.PNG)!
