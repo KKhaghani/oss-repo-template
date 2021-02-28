@@ -26,7 +26,7 @@ Step 5: ![file folder](step5) | running Tutorial (it does find log and exp)
 
 # Part 2: Makefiles
 
-Creating my own Makefile: ![file folder](part2_mymake)
+Creating my own Makefile: ![file folder](part2_mymake) | ![the Makefile](part2_mymake/Makefile)
 
 Relative sizes of static vs shared (dynamic) executables:
 
