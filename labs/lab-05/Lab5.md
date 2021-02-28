@@ -23,3 +23,11 @@ Step 4: ![file folder](step4) | running (most of the) tests with ctest
 Step 5: ![file folder](step5) | running Tutorial (it does find log and exp)
 
 ![step5](step5/logexp.PNG)
+
+# Part 2: Makefiles
+
+Creating my own Makefile: ![file folder](part2_mymake)
+
+Relative sizes of static vs shared (dynamic) executables:
+
+![relative sizes](part2_mymake/relativesize.png)
