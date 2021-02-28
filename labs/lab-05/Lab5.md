@@ -19,3 +19,7 @@ Step 3: ![file folder](step3) | ![second CMakeLists here](step3/MathFunctions_CM
 Step 4: ![file folder](step4) | running (most of the) tests with ctest
 
 ![step4](step4/ctest.png)
+
+Step 5: ![file folder](step5) | running Tutorial (it does find log and exp)
+
+![step5](step5/logexp.PNG)
