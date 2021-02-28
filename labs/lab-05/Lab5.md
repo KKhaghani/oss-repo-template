@@ -11,3 +11,7 @@ Step 1: Running tutorial
 Step 2: ![file folder](step2) | comparing mysqrt and sqrt
 
 ![step2](step2/mymath.png)
+
+Step 3: ![file folder](step3) | ![second CMakeLists here](step3/MathFunctions_CMakeLists.txt) | once again running Tutorial
+
+![step3](step3/rerun.PNG)
