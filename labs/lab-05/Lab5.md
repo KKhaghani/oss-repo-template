@@ -15,3 +15,7 @@ Step 2: ![file folder](step2) | comparing mysqrt and sqrt
 Step 3: ![file folder](step3) | ![second CMakeLists here](step3/MathFunctions_CMakeLists.txt) | once again running Tutorial
 
 ![step3](step3/rerun.PNG)
+
+Step 4: ![file folder](step4) | running (most of the) tests with ctest
+
+![step4](step4/ctest.png)
