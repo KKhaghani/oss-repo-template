@@ -31,3 +31,9 @@ Creating my own Makefile: ![file folder](part2_mymake) | ![the Makefile](part2_m
 Relative sizes of static vs shared (dynamic) executables:
 
 ![relative sizes](part2_mymake/relativesize.png)
+
+Using CMake: ![file folder](part2_cmake) | ![the CMakeLists](part2_cmake/CMakeLists.txt) | ![the Makefile](part2_cmake/Makefile)
+
+Relative sizes of static vs shared (dynamic) executables:
+
+![relative sizes 2](part2_cmake/relativesize2.png)
